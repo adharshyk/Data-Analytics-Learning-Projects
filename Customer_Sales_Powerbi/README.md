@@ -59,4 +59,3 @@ The dashboard provides stakeholders with a centralized view of **transaction per
 ### Author
 
 **Adharsh Kuttithazhath**  
-M.Sc. Data Science – Business Analytics
